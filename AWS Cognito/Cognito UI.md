@@ -1,0 +1,1 @@
+After you create a user pool, you can create an app to use the built-in webpages for signing up and signing in your users.

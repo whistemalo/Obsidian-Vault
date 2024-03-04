@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "24d8e499215edd9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "20dfde4b756abae4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "994b3136dfdd844d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240123123929.png"
+              }
+            }
+          },
+          {
+            "id": "912ba8da618d7515",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240123123929.png"
+              }
+            }
+          },
+          {
+            "id": "4161db06c1c90a05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elastic Load Balancing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c706b210ce7ee8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elastic Load Balancing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22a3903fc2f6464b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ee1831d2bea5849",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f8cae0d379cd621",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "355e957a86f9d607",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Access",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db30c985c43890a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c44389ce975dbc71",
+    "type": "split",
+    "children": [
+      {
+        "id": "a69d83cebe091c1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bc7d4a34957bfad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20240123123929.png",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b371cd800b2a2532",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted image 20240123123929.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "209106e332f2c4d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e3f97894a775f6b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted image 20240123123929.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "912ba8da618d7515",
+  "lastOpenFiles": [
+    "IAM.md",
+    "Pasted image 20240123123929.png",
+    "IAM",
+    "Elastic Load Balancing.md",
+    "Knowledge Bits/Mind pills.md",
+    "AWS Cognito/Amazon Cognito scenarios.md",
+    "Knowledge Bits",
+    "AWS Cognito/AWS Cognito usefull insight.md",
+    "AWS Cognito/Flow of applience.canvas",
+    "AWS Cognito/User pools.md",
+    "AWS Cognito/Untitled.md",
+    "AWS Cognito/Cognito UI.md",
+    "AWS Cognito/images/Pasted image 20240119113655.png",
+    "AWS Cognito/images",
+    "AWS Cognito/images/Pasted image 20240119113648.png",
+    "AWS Cognito/images/Pasted image 20240119112340.png",
+    "AWS Cognito/images/Pasted image 20240119112311.png",
+    "AWS Cognito/Pasted image 20240119105716.png",
+    "AWS Cognito/Pasted image 20240119105711.png",
+    "AWS Cognito",
+    "AWS Load balancer",
+    "Databridge.md",
+    "2023-12-13.md",
+    "Untitled 1.canvas"
+  ]
+}
